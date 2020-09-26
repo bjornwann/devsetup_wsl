@@ -11,14 +11,16 @@ this will take a while to install all fonts. you can delete the folder after.
 
 ## Windows Terminal
 - set font in settings in windows terminal in the Ubuntu section
-  {
-        "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+```
+{
+	"guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
         "hidden": false,
         "name": "Ubuntu",
         "source": "Windows.Terminal.Wsl",
         "startingDirectory": "//wsl$/Ubuntu/home/username/",
         "fontFace": "Font Face Powerline"
-      }
+}
+```
 - replace the line "fontFace": "Font Face Powerline" with the font of your choice
 
 ## VS code
