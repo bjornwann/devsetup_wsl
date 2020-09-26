@@ -1,4 +1,4 @@
-### Terminal Styling Setup WSL Ubuntu VS Code
+# Terminal Styling Setup WSL Ubuntu VS Code
 
 ## Installation Ubuntu
 - zsh https://linuxhint.com/install_zsh_shell_ubuntu_1804/
